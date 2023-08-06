@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{3EA77401-8B5F-499A-9ABE-995B6531AFF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayManager.DataAccessLayer", "BirthdayManager.DataAccessLayer\BirthdayManager.DataAccessLayer.csproj", "{53F06436-8677-49BA-B4D3-5354842C4EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayManager.BusinessLogic", "BirthdayManager.BusinessLogic\BirthdayManager.BusinessLogic.csproj", "{3015A764-9649-4036-B2B1-3321C7485173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EA77401-8B5F-499A-9ABE-995B6531AFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA77401-8B5F-499A-9ABE-995B6531AFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA77401-8B5F-499A-9ABE-995B6531AFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA77401-8B5F-499A-9ABE-995B6531AFF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F06436-8677-49BA-B4D3-5354842C4EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F06436-8677-49BA-B4D3-5354842C4EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F06436-8677-49BA-B4D3-5354842C4EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F06436-8677-49BA-B4D3-5354842C4EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3015A764-9649-4036-B2B1-3321C7485173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3015A764-9649-4036-B2B1-3321C7485173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3015A764-9649-4036-B2B1-3321C7485173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3015A764-9649-4036-B2B1-3321C7485173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

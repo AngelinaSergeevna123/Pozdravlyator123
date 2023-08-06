@@ -1,0 +1,14 @@
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\bin\Debug\net7.0\BirthdayManager.DataAccessLayer.deps.json
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\bin\Debug\net7.0\BirthdayManager.DataAccessLayer.runtimeconfig.json
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\bin\Debug\net7.0\BirthdayManager.DataAccessLayer.dll
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\bin\Debug\net7.0\BirthdayManager.DataAccessLayer.pdb
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\BirthdayManager.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\BirthdayManager.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\BirthdayManager.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\BirthdayManager.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\BirthdayManager.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\BirthdayManager.DataAccessLayer.dll
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\refint\BirthdayManager.DataAccessLayer.dll
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\BirthdayManager.DataAccessLayer.pdb
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\BirthdayManager.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.DataAccessLayer\obj\Debug\net7.0\ref\BirthdayManager.DataAccessLayer.dll

@@ -1,0 +1,15 @@
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\bin\Debug\net7.0\BirthdayManager.BusinessLogic.deps.json
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\bin\Debug\net7.0\BirthdayManager.BusinessLogic.dll
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\bin\Debug\net7.0\BirthdayManager.BusinessLogic.pdb
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\BirthdayManager.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\BirthdayManager.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\BirthdayManager.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\BirthdayManager.BusinessLogic.AssemblyInfo.cs
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\BirthdayManager.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\BirthdayManager.BusinessLogic.dll
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\refint\BirthdayManager.BusinessLogic.dll
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\BirthdayManager.BusinessLogic.pdb
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\ref\BirthdayManager.BusinessLogic.dll
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\bin\Debug\net7.0\BirthdayManager.DataAccessLayer.dll
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\bin\Debug\net7.0\BirthdayManager.DataAccessLayer.pdb
+C:\Users\Edik\Downloads\ConsoleApp4 (2)\ConsoleApp4\BirthdayManager.BusinessLogic\obj\Debug\net7.0\BirthdayManager.BusinessLogic.csproj.CopyComplete
